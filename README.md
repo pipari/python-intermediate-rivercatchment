@@ -18,3 +18,5 @@ The tests should be run using `pytest`, which will be introduced during the work
 
 # RiverCatch
 ![Continuous Integration build in GitHub Actions](https://github.com/douglowe/python-intermediate-rivercatchment/actions/workflows/main.yml/badge.svg)
+
+some other changes
